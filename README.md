@@ -1,7 +1,7 @@
 # DeclarativeScheduler
 Declarative Scheduler - use the reporting engine and subscribe feature to update records in report on a daily/weekly/monthly schedule
 
-Version 0.1
+
 - Create a report with the record id in column 1 and a datetime field in column 2
 - Add the filters you like
 - Click subcribe. Then select a custom action. Then Declarative Scheduler (make sure to turn off the salesforce1 notification
@@ -19,6 +19,15 @@ Todo:
 - Instructions
 - Testing
 - Guidelines and examples
+
+
+Version 0.1
+<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/dthowell/DeclarativeScheduler">
+<img  class="alignnone size-full wp-image-1966" src="https://andrewfawcett.files.wordpress.com/2014/09/deploy.png?w=820" alt="deploy">
+</a>
+
+
+
 
 And a quick managed package link:
 https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000000Bt1N
