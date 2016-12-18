@@ -6,6 +6,13 @@
     <columns>
         <field>Account.Declarative_Scheduler_DateTime__c</field>
     </columns>
+    <description>First column: record ID
+Second column:  datetime field that you want to update. 
+
+Schedule the report:
+-	Select the custom action
+-	Uncheck &apos;Send Salesforce1 Notification&apos;
+-	Record count &gt; 0</description>
     <format>Tabular</format>
     <name>Scheduler_Account_Example</name>
     <params>
