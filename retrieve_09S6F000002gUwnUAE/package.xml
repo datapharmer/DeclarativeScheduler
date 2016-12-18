@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Declarative Scheduler</fullName>
+    <types>
+        <members>DeclarativeScheduler</members>
+        <members>DeclarativeSchedulerBatching</members>
+        <members>DeclarativeSchedulerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account.Declarative_Scheduler_DateTime__c</members>
+        <members>Declarative_Scheduler__c.Batch_Size__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Declarative_Scheduler__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Declarative_Scheduler_Reports</members>
+        <members>Declarative_Scheduler_Reports/Scheduler_Account_Example</members>
+        <name>Report</name>
+    </types>
+    <version>37.0</version>
+</Package>
