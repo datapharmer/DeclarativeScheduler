@@ -32,30 +32,9 @@ Todo:
 
 
 
-<br>
-# Version 0.1
-<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/dthowell/DeclarativeScheduler">
-<img  class="alignnone size-full wp-image-1966" src="https://andrewfawcett.files.wordpress.com/2014/09/deploy.png?w=820" alt="deploy">
-</a>
 
-
-<br><br>
-
-And a quick managed package link:
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000000Bt1N
-
-
-
-<br><br><br>
-# Credit:<br>
-Douglas for showing me the idea and for some of his code :) https://github.com/DouglasCAyers/sfdc-add-contacts-to-campaign-report-service
-<br><br>
-Andy For all of his work in the area. And for me to learn off soem of his code https://andyinthecloud.com/2016/02/28/dynamically-creating-flows-in-apex/
-
-
-
-
-<br><br>
+# Instructions
+Install the package below.<br>
 <img src="https://lavaboxdeclarativescheduler-dev-ed--c.ap4.content.force.com/servlet/servlet.ImageServer?id=0156F00000Cf6Ko&amp;oid=00D6F000000EMro&amp;lastMod=1482131370000" alt="Right click on the image to save it to your computer." title="Right click on the image to save it to your computer.">
 
 <br><br><br>
@@ -63,3 +42,23 @@ Andy For all of his work in the area. And for me to learn off soem of his code h
 
 <br><br><br>
 <img src="https://lavaboxdeclarativescheduler-dev-ed--c.ap4.content.force.com/servlet/servlet.ImageServer?id=0156F00000Cf6LD&amp;oid=00D6F000000EMro&amp;lastMod=1482131682000" alt="Right click on the image to save it to your computer." title="Right click on the image to save it to your computer.">
+
+
+
+<br>
+# Version 0.1
+<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/dthowell/DeclarativeScheduler">
+<img  class="alignnone size-full wp-image-1966" src="https://andrewfawcett.files.wordpress.com/2014/09/deploy.png?w=820" alt="deploy">
+</a>
+And a quick managed package link:
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000000Bt1N
+
+
+
+<br><br><br>
+# Credit:
+Douglas for showing me the idea and for some of his code :) https://github.com/DouglasCAyers/sfdc-add-contacts-to-campaign-report-service
+<br><br>
+Andy For all of his work in the area. And for me to learn off soem of his code https://andyinthecloud.com/2016/02/28/dynamically-creating-flows-in-apex/
+
+
