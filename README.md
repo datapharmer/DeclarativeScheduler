@@ -35,8 +35,7 @@ https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000000Bt1N
 
 
 
-Credit:
+Credit:<br>
 Douglas for showing me the idea and for some of his code :) https://github.com/DouglasCAyers/sfdc-add-contacts-to-campaign-report-service
-
-Andy 
-For all of his work in the area. And for me to learn off soem of his code https://andyinthecloud.com/2016/02/28/dynamically-creating-flows-in-apex/
+<br><br>
+Andy For all of his work in the area. And for me to learn off soem of his code https://andyinthecloud.com/2016/02/28/dynamically-creating-flows-in-apex/
