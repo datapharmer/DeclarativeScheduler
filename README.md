@@ -15,6 +15,7 @@ Declarative Scheduler - use the reporting engine and subscribe feature to update
 - Send an email on a contacts birthday
 - Process mass updates to all data (create a workflow to fire when the triggering field change and then to do the function you want)
 - Delay bulk workflow actions into a nightly job
+- Backdate workflow processing - when you created a workflow/process build you can trigger it to run on all of the existing records :)
 - Let me know yours...
 
 <br>
