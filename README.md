@@ -1,5 +1,5 @@
 # Declarative Scheduler Tool
-Declarative Scheduler - use the reporting engine and subscribe feature to update records in report on a daily/weekly/monthly schedule
+Declarative Scheduler Tool for Salesforce admins - use the reporting engine and subscribe feature to update records in report on a daily/weekly/monthly schedule
 
 
 - Create a report with the record id in column 1 and a datetime field in column 2
@@ -20,9 +20,9 @@ Declarative Scheduler - use the reporting engine and subscribe feature to update
 
 <br>
 Notes:
-- It works off super batch apex so you can change the batch size in custom settings
+- It works off super batch apex so you can change the batch size in custom settings. This stops any soql 101 or timeout process builder/flow errors
 - Has been tested to work on reports of up to 50,000 records. Don't go larger of Salesforce CPU times out
-- It's built to be generic so works across all obejects - but you should add in your own datatime field. 
+- It's built to be generic so works across all obejects - but you should add in your own datetime field. 
 
 <br>
 Todo:
