@@ -32,8 +32,8 @@ Todo:
 
 
 
-<br><br>
-# Version 0.1<br>
+<br>
+# Version 0.1
 <a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/dthowell/DeclarativeScheduler">
 <img  class="alignnone size-full wp-image-1966" src="https://andrewfawcett.files.wordpress.com/2014/09/deploy.png?w=820" alt="deploy">
 </a>
