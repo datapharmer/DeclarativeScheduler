@@ -52,7 +52,7 @@ Install the package below.<br>
 <img  class="alignnone size-full wp-image-1966" src="https://andrewfawcett.files.wordpress.com/2014/09/deploy.png?w=820" alt="deploy">
 </a>
 And a quick managed package link:
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000000Bt1N
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000000Bvox
 
 
 
