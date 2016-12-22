@@ -90,9 +90,15 @@ public void execute(Reports.NotificationActionContext context) {
         bat.FieldtoUpdate = FieldtoUpdate;
         bat.ReportID = ReportID;
         
-        //in future move batch sizes to custom setting
+        //batch sizes to custom setting
+        Integer BatchSize = 50;
+    	try{
         Declarative_Scheduler__c mcs = Declarative_Scheduler__c.getInstance();
-        Integer BatchSize = mcs.Batch_Size__c.intValue();
+        BatchSize = mcs.Batch_Size__c.intValue();
+        }catch(exception e){
+            
+        }
+    
         System.debug('BatchSize: '+BatchSize);
         
         if(BatchSize == null || BatchSize < 1){Batchsize = 50 + 0 ;
